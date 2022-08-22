@@ -41,6 +41,12 @@ Adicionar IMAGEM
 
 ### 4. Descrição dos Casos de Uso
 
+Projeto: Tibico - Sistema de Registro Acadêmico Subsistema: ControleInterno
+Caso de Uso: Controlar Turma
+
+##### Descrição Sucinta:
+Parte deste caso de uso já foi descrito anteriormente na tabela de casos de uso cadastrais. Ele é responsável por iniciar e finalizar turma, alocar professor, iniciar e finalizar período de matrícula.
+
 Nome do Fluxo de Eventos Normal | Precondição | Descrição 
 :---------: | ---------- | ---------- |
 Alocar Professor | 1- Possuir Turma cadastrada. | 1 – O funcionário seleciona uma turma.<br> 2 – O sistema exibe os professores disponíveis de horário e que a área da disciplina seja igual a área de atuação do professor.<br>3 – O funcionário seleciona o professor.<br>4 – O professor é alocado na turma.
