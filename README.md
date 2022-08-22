@@ -4,7 +4,7 @@
 Matheus: add email<br>
 Arthur: add email<br>
 Thiago: add email<br>
-Manoel: add email<br>
+Manoel: manoel.rl@gmail.com<br>
 Lorran Gabriel: lorrangabriel20@gmail.com<br>
 
 ## Sumário
