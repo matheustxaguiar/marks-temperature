@@ -44,8 +44,7 @@ Adicionar IMAGEM
 Projeto: Tibico - Sistema de Registro Acadêmico Subsistema: ControleInterno
 Caso de Uso: Controlar Turma
 
-##### Descrição Sucinta:
-Parte deste caso de uso já foi descrito anteriormente na tabela de casos de uso cadastrais. Ele é responsável por iniciar e finalizar turma, alocar professor, iniciar e finalizar período de matrícula.
+Descrição Sucinta: Parte deste caso de uso já foi descrito anteriormente na tabela de casos de uso cadastrais. Ele é responsável por iniciar e finalizar turma, alocar professor, iniciar e finalizar período de matrícula.
 
 Nome do Fluxo de Eventos Normal | Precondição | Descrição 
 :---------: | ---------- | ---------- |
