@@ -1,4 +1,4 @@
-# Arquivo IFES - Projeto de Sistemas
+# Temperatura de marcas - Projeto de Sistemas
 
 ## Equipe <br>
 Integrantes do grupo<br>
