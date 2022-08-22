@@ -21,14 +21,14 @@ Identificador | Descrição | Categoria | Escopo
 RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
 
   #### 2.2 RNF
-    Identificador | Descrição | Categoria | Escopo 
-    :---------: | ---------- | :---------: | :---------: |
-    RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
+Identificador | Descrição | Categoria | Escopo 
+:---------: | ---------- | :---------: | :---------: |
+RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
    
   #### 2.3 RN
-    Identificador | Descrição | Categoria | Escopo 
-    :---------: | ---------- | :---------: | :---------: |
-    RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
+Identificador | Descrição | Categoria | Escopo 
+:---------: | ---------- | :---------: | :---------: |
+RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
 
 ### 3. Casos de uso
 
