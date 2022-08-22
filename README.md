@@ -1,5 +1,13 @@
 # Arquivo IFES - Projeto de Sistemas
 
+## Equipe <br>
+Integrantes do grupo<br>
+Matheus: add email<br>
+Arthur: add email<br>
+Thiago: add email<br>
+Thiago: add email<br>
+Lorran Gabriel: lorrangabriel20@gmail.com<br>
+
 ## Sumário
 
 - [1.Minimundo](#1-Minimundo)<br>
@@ -7,7 +15,6 @@
 - [3.Casos de uso](#3-Casos-de-uso)<br>
 - [4.Descrição dos Casos de Uso](#4-Descrição-dos-Casos-de-Uso)<br>
 - [5.Modelo de Classes](#5-Modelo-de-Classes)<br>
-- [Outros](#SOFTWARES-UTILIZADOS)<br>
 
 ### 1. Minimundo
 > bla bla bla
