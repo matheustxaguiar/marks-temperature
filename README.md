@@ -5,7 +5,7 @@ Integrantes do grupo<br>
 Matheus: add email<br>
 Arthur: add email<br>
 Thiago: add email<br>
-Thiago: add email<br>
+Manoel: add email<br>
 Lorran Gabriel: lorrangabriel20@gmail.com<br>
 
 ## Sumário
