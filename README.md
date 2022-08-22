@@ -21,14 +21,16 @@ Lorran Gabriel: lorrangabriel20@gmail.com<br>
 ### 2. Requisitos
   #### 2.1 RF
   
-Identificador | Descrição | Categoria | Escopo 
+Identificador | Descrição | Prioridade | Dependencia
 :---------: | ---------- | :---------: | :---------: |
-RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
+RF01 | O sistema deve permitir o cadastro de marcas.       |Alta|  |
+RF02 | O sistema deve acessar a API do twitter e obter os dados.       |Alta|  |
+
 
   #### 2.2 RNF
-Identificador | Descrição | Categoria | Escopo 
+Identificador | Descrição | Prioridade | Dependencia 
 :---------: | ---------- | :---------: | :---------: |
-RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
+RN01 | Apara verificar os trends de uma marca a mesma deve estar cadastrada        |Alta|  |
    
   #### 2.3 RN
 Identificador | Descrição | Categoria | Escopo 
