@@ -2,7 +2,7 @@
 
 ## Equipe <br>
 Matheus: add email<br>
-Arthur: add email<br>
+Arthur: arthurdelpupocoelho40@gmail.com<br>
 Thiago: add email<br>
 Manoel: manoel.rl@gmail.com<br>
 Lorran Gabriel: lorrangabriel20@gmail.com<br>
