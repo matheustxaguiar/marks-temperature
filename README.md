@@ -16,7 +16,7 @@ Lorran Gabriel: lorrangabriel20@gmail.com<br>
 - [5.Modelo de Classes](#5-Modelo-de-Classes)<br>
 
 ### 1. Minimundo
-> bla bla bla
+> O projeto de Temperatura de marcas tem como objetivo a analise publicitaria de marcas em redes sociais.
 
 ### 2. Requisitos
   #### 2.1 RF
