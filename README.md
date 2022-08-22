@@ -3,11 +3,10 @@
 ## Sumário
 
 - [1.Minimundo](#1-Minimundo)<br>
-- [2.Requisitos](#2-Requisitos-Não-Funcionais)<br>
-- [3.Táticas](#3-Táticas-para-tratar-Atributos-de-qualidade)<br>
-- [4. Descrição dos Casos de Uso](#4-Protótipos-de-Tela-do-Sistema)<br>
-- [5. Link github do aplicativo Mobile](#5-Link-github-do-aplicativo-Mobile-que-vem-sendo-desenvolvido-com-Flutter
-)<br>
+- [2.Requisitos](#2-Requisitos)<br>
+- [3.Casos de uso](#3-Casos-de-uso)<br>
+- [4.Descrição dos Casos de Uso](#4-Descrição-dos-Casos-de-Uso)<br>
+- [5.Modelo de Classes](#5-Modelo-de-Classes)<br>
 - [Outros](#SOFTWARES-UTILIZADOS)<br>
 
 ### 1. Minimundo
@@ -34,7 +33,7 @@ RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidad
 
 Adicionar IMAGEM
 
-### 4. Descrição dos Casos de Uso mais relevantes
+### 4. Descrição dos Casos de UsO
 
 Nome | Descrição 
 :---------: | ---------- |
