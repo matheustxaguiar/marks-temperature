@@ -41,9 +41,13 @@ Adicionar IMAGEM
 
 ### 4. Descrição dos Casos de Uso
 
-Nome | Descrição 
-:---------: | ---------- |
-ident | Esse Caso de uso faz isso
+Nome do Fluxo de Eventos Normal | Precondição | Descrição 
+:---------: | ---------- | ---------- |
+Alocar Professor | 1- Possuir Turma cadastrada. | 1 – O funcionário seleciona uma turma.
+2 – O sistema exibe os professores disponíveis de horário e que a área da disciplina seja igual a área de atuação do professor.
+3 – O funcionário seleciona o professor.
+4 – O professor é alocado na turma.
+
 
 ### 5. Modelo de Classes
 
