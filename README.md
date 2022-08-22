@@ -2,8 +2,8 @@
 
 ## Equipe <br>
 Matheus: add email<br>
-Arthur: arthurdelpupocoelho40@gmail.com<br>
-Thiago: add email<br>
+Arthur Delpupo Coelho: arthurdelpupocoelho40@gmail.com<br>
+Thiago Duna Nascimento: thiagoduna0@gmail.com<br>
 Manoel: manoel.rl@gmail.com<br>
 Lorran Gabriel: lorrangabriel20@gmail.com<br>
 
