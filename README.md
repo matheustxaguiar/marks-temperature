@@ -27,14 +27,14 @@ RF01 | O sistema deve permitir o cadastro de marcas.       |Alta|  |
 RF02 | O sistema deve acessar a API do twitter e obter os dados.       |Alta|  |
 
 
-  #### 2.2 RNF
+  #### 2.2 RN
 Identificador | Descrição | Prioridade | Dependencia 
 :---------: | ---------- | :---------: | :---------: |
 RN01 | Apara verificar os trends de uma marca a mesma deve estar cadastrada        |Alta|  |
    
-  #### 2.3 RN
+  #### 2.3 RNF
 Identificador | Descrição | Categoria | Escopo | Prioridade | Dependencia
-:---------: | ---------- | :---------: | :---------: |
+:---------: | ---------- | :---------: | :---------: | :---------: | :---------: |
 RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|Alta|  |
 
 ### 3. Casos de uso
