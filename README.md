@@ -33,7 +33,7 @@ RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidad
 
 Adicionar IMAGEM
 
-### 4. Descrição dos Casos de UsO
+### 4. Descrição dos Casos de Uso
 
 Nome | Descrição 
 :---------: | ---------- |
