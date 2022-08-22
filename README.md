@@ -33,9 +33,9 @@ Identificador | Descrição | Prioridade | Dependencia
 RN01 | Apara verificar os trends de uma marca a mesma deve estar cadastrada        |Alta|  |
    
   #### 2.3 RN
-Identificador | Descrição | Categoria | Escopo 
+Identificador | Descrição | Categoria | Escopo | Prioridade | Dependencia
 :---------: | ---------- | :---------: | :---------: |
-RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
+RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|Alta|  |
 
 ### 3. Casos de uso
 
