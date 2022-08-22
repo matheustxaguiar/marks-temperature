@@ -1,7 +1,6 @@
 # Temperatura de marcas - Projeto de Sistemas
 
 ## Equipe <br>
-Integrantes do grupo<br>
 Matheus: add email<br>
 Arthur: add email<br>
 Thiago: add email<br>
