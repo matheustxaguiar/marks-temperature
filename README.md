@@ -15,9 +15,10 @@
 
 ### 2. Requisitos
   #### 2.1 RF
-    Identificador | Descrição | Categoria | Escopo 
-    :---------: | ---------- | :---------: | :---------: |
-    RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
+  
+Identificador | Descrição | Categoria | Escopo 
+:---------: | ---------- | :---------: | :---------: |
+RNF01 |O sistema deve possuir uma linguagem simples e ser de facil navegabilidade.        |Usabilidade| Sistema|
 
   #### 2.2 RNF
     Identificador | Descrição | Categoria | Escopo 
@@ -42,7 +43,3 @@ ident | Esse Caso de uso faz isso
 ### 5. Modelo de Classes
 
 Adicionar IMAGEM
-
-### SOFTWARES UTILIZADOS
->Protótipo das telas: https://balsamiq.com<br>
->Diagramas: http://astah.net/<br>
