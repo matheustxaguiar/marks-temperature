@@ -1,7 +1,7 @@
 # Temperatura de marcas - Projeto de Sistemas
 
 ## Equipe <br>
-Matheus: add email<br>
+Matheus: matheustxaguiar@gmail.com<br>
 Arthur Delpupo Coelho: arthurdelpupocoelho40@gmail.com<br>
 Thiago Dutra Nascimento: thiagoduna0@gmail.com<br>
 Manoel: manoel.rl@gmail.com<br>
@@ -16,7 +16,12 @@ Lorran Gabriel: lorrangabriel20@gmail.com<br>
 - [5.Modelo de Classes](#5-Modelo-de-Classes)<br>
 
 ### 1. Minimundo
-> O projeto de Temperatura de marcas tem como objetivo a analise publicitaria de marcas em redes sociais. A priori o sistema bla bla bla
+>O projeto “Termômetro de Marcas” é uma plataforma cujo objetivo é informar aos usuários, de forma qualitativa, sobre determinado produto ou marca, no qual o usuário irá inserir as palavras chaves que deseja filtrar e a plataforma se responsabilizará por gerar relatórios sobre o tema filtrado. Dessa forma, é esperado desenvolver um sistema que receba palavras chaves e, através de operações internas, retorne uma análise qualitativa sobre o tema proposto.
+<br>  O sistema realiza a filtragem das marcas através do twitter, no qual ele identifica todos os tweets que citam esta e avalia qualitativamente o tweet, armazenando a avaliação, data do tweet e indicadores como likes, retweets, comentários, visualizações e os autores dos principais tweets sobre o tema.
+<br>  O sistema possui usuários, sobre eles, deseja-se armazenar seus dados pessoais, como CPF, nome, data de nascimento, e-mail e endereço. Através do cadastro dos usuários, eles podem fazer uma busca direta sobre uma determinada marca, ou selecioná-la dentre as categorias disponíveis. Ao selecionar um produto ou marca o usuário tem a possibilidade de filtrar os resultados, levando em consideração a data, localização, relevância, frequência, qualidade e repercussão.
+<br>  Dessa forma, o sistema deve ser capaz de gerar e apresentar ao usuário relatórios que levam em consideração todos os dados supracitados, com base no que ele pesquisou e filtrou. O termômetro de marcas deve proporcionar a possibilidade de salvar o relatório gerado.
+
+
 
 ### 2. Requisitos
   #### 2.1 RF
